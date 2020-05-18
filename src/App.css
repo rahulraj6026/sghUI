@@ -1,0 +1,17 @@
+.bgImage{
+    background-image: url('./assets//nature.jpeg');
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.bgLight{
+    background-color: rgba(85, 77, 77, 0.5);
+}
+
+.bgLight:hover{
+    background-color: rgba(100,90,88,0.5);
+    color: rgb(29, 29, 32);
+}
